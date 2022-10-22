@@ -1,0 +1,11 @@
+{
+  "appId": "com.duoc.app",
+  "appName": "Duoc",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
